@@ -1,0 +1,56 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BusinessLaw"
+        xmlns:Metadata="clr-namespace:System.Reflection.Metadata;assembly=System.Reflection.Metadata" x:Class="BusinessLaw.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="637" Width="840" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Window.OpacityMask>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.OpacityMask>
+    <Grid Margin="0,0,7,7">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="11*"/>
+            <ColumnDefinition Width="272*"/>
+            <ColumnDefinition Width="515*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TabControl Margin="10,10,12,18" Grid.ColumnSpan="4">
+            <TabItem Header="Forming Corporation">
+                <Grid Background="#FFE5E5E5" Height="544" Margin="11,0,13,0">
+                    <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="521" Width="766" Text="Forming the Corporation:                                                                                                                                                                                                                                                                                                          For non-profits the organization can be a corporation, unincorporated association or a charitable trust .  The main reason to incorporate the association would be so that the founders are protected from any personal liability from the association's operations, costs and actions. The corporation's legal name will be National Association for Elementary and Middle School Education in Technology and Science Incorporated. The name will have been cleared by the secretary of state for any conflicts.  The articles of incorporation listing its bylaws and mission statement which would qualify it for a tax exempt status from the IRS will be submitted to the State Corporation Commission (SCC) in MA along with the appropriate fees. It will also provide an annual report and registered office location to the SCC. The non-profit will apply for and maintain a 501(c)(3) status. This status will qualify it for a tax-exempt status, be eligible to receive public and private grant money, it can also solicit for tax-deductible donations, proceed with fundraisers and limit personal liability for its members. Since it is a non-profit it will not issue any stock or any dividends. The articles of incorporation will include name, purpose, limitations such as all the earnings below to the corporation and will not engage in any unlawful activity, it will be a member based non-profit corporation, names of directors and rules for dissolution will also be included in the articles of incorporation. Bylaws for the corporation will be developed. It will include name, location, purpose, power and duties, number, election term, qualifications, development, communication policies, vacancies, meetings and voting rights for the board of directors. It should also include information about number of officers and agents, elections and terms. Information about the different types of committees of the board such as executive committee, committee chairs, nominating board development committee, Audit and personnel committee will be included in the bylaws document. Articles of indemnification of officers and directors towards state and federal laws will be included.  Conflict of interest, disclosure, account book and minutes, fiscal year audit, loans, amendments to bylaws will be addressed as well in the bylaws certificate. The organization will be incorporated in the Greater Boston area with initial funding approved by federal grant  along with fund raisers, donations and partnerships from private educational institutions and local employers. The state of incorporation will be MA versus CA or Delaware because of the large pool of higher level educational institutes within the greater Boston area.  A board of directors will be recruited by the founders of the member based non-profit corporation from the pool of stake holders and prominent members. A small governing board of up to 12 members which will make decisions related to the policies and operations of the corporation will be created. Broad range skill set such as business, communications, finances, fundraising, employment history and or detailed knowledge of K-12 curriculum would be needed in the governing board. Separate from the governing a small advisory board consisting of Babson professors, other successfully non-profit entrepreneurs, student and teacher representatives will also be formed. The advisory board can provide guidance and advice to the governing board.   A mission statement will be formed with the help of the board of directors and will be used to market the organization to attract more volunteers.  The individuals serving on the board must oblige to the bylaws of the corporate and always act in the interest of the corporation.   As the corporation matures the size of the board directors can gradually increase, rotations of terms will be implemented, where half of the members stay and the remaining are replaced by new members on a 3-5 year basis. A well developed orientation program will be put in place for the new members. The program will involve learning about the mission, bylaws and finances of the corporation.  The membership based organization will have regular monthly board meetings to amend the bylaws in the initial stages.  The meetings held by the board of directors will result in strategic and financial planning for the corporation.         " ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                        <TextBlock.Background>
+                            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlLightLightColorKey}}"/>
+                        </TextBlock.Background>
+                    </TextBlock>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Intellectual_Property" Header="Intellectual Property">
+                <Grid Background="#FFE5E5E5" Height="551" Margin="2,0,1,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="397*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Left" Margin="15,8,0,0" Text="The intellectual property of the National Association for Elementary and Middle School Education in Technology and Science Incorporated (NAEMETS) can be categorized as follows, website copyright, association trademarks, trade secrets and patents around processes and products. The trade secrets for the corporation would be any type of information database containing personal information pertaining to company members and volunteers, along with students, teachers and faculty which are part of an educational institute. Other forms of trade secrets will include special processes, innovative ideas and products used to generate interest in young adults and children towards science and technology.  A trade secret protection program will be established, the program will entail training personnel which will have access to these information databases.  The company culture will be such that employees will have a strong sense of responsibility and awareness of confidential information. Since this is a non-profit, volunteers will not have access to this information, it will be restricted to employed personnel only. New employees and independent contractors will sign a non-disclosure agreement consisting of provisions related to non-disclosure of company proprietary information and not engaging in other business activities outside of the current employer. For new engineers and technical resources an assignment of innovations agreement stating that all inventions created by them will be patented under NAEMETS will be developed and they will need to sign the document before their employment term initiates. These documents will be developed and reviewed carefully by an experienced attorney." TextWrapping="Wrap" VerticalAlignment="Top" Height="222" Width="759" Grid.Column="1">
+                        <TextBlock.Background>
+                            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.HighlightTextColorKey}}"/>
+                        </TextBlock.Background>
+                    </TextBlock>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
