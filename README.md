@@ -8,5 +8,5 @@ Please download the executable in https://github.com/alpaddesai/BusinessLaw/rele
 
 All images are either custom by Alpa D Desai or a reference name is provided.
 
-##Forming Corporation
+Forming Corporation
 ![image](FormingCorporation.png)
