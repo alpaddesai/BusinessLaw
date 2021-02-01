@@ -13,3 +13,5 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 
 ## Intellectual Property
 ![image](IntellectualProperty.png)
+
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
