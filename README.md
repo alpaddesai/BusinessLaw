@@ -17,6 +17,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Business Law
 ![image](BusinessLaw.jpg)
 
-## https://www.rolex.com/
-
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
