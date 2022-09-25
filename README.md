@@ -17,4 +17,6 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Business Law
 ![image](BusinessLaw.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
