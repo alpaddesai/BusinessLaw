@@ -19,4 +19,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 
 ![image](USCopyrightCertificate.png)
 
-Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Additional reference : https://github.com/alpaddesai/ManagingIntellectualProperty  and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
