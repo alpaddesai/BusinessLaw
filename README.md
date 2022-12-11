@@ -21,4 +21,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/ManagingIntellectualProperty  
+Additional reference : https://github.com/alpaddesai/ExecutiveMBAApplication2031
